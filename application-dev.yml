@@ -124,18 +124,5 @@ my:
       fcm: API-FCM
 			
 			
-spring:
-	mail:
-	  host: smtp.gmail.com
-	  port: 587
-	  username: sivakrishna@acintyotech.ai
-	  password: yfaq rjpy gghg wpss
-	  properties:
-		  mail:
-		  smtp:
-		    auth: true
-			  starttls:
-			    enable: true			
-			
 
 			
